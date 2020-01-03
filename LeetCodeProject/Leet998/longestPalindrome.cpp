@@ -5,7 +5,7 @@ void Leet998::TestCase()
 {
 	string StrTest = "aab";
 	int Res = longestPalindrome(StrTest);
-	cout << "Test Finish";
+	cout << "Test Finish"; 
 }
 
 int Leet998::longestPalindrome(string s)
